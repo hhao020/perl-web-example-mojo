@@ -1,0 +1,14 @@
+% layout 'default';
+% title 'Welcome';
+<h2><%= $msg %></h2>
+
+<pre>
+  <%= $stars %>
+</pre>
+
+
+<ul>
+  <% foreach my $name (@$contacts) { %>
+    <li><%= $name %></li>
+  <% } %>
+</ul>

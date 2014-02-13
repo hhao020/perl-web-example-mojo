@@ -1,0 +1,299 @@
+[Thu Feb 13 14:34:03 2014] [info] Listening at "http://*:3000".
+[Thu Feb 13 14:34:28 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 14:34:28 2014] [debug] GET "/".
+[Thu Feb 13 14:34:28 2014] [debug] Routing to controller "Contacts::Example" and action "welcome".
+[Thu Feb 13 14:34:28 2014] [debug] Rendering template "example/welcome.html.ep".
+[Thu Feb 13 14:34:28 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 14:34:28 2014] [debug] 200 OK (0.006588s, 151.791/s).
+[Thu Feb 13 14:41:55 2014] [info] Listening at "http://*:3000".
+[Thu Feb 13 14:41:56 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 14:41:56 2014] [debug] GET "/".
+[Thu Feb 13 14:41:56 2014] [debug] Routing to controller "Contacts::Example" and action "welcome".
+[Thu Feb 13 14:41:56 2014] [debug] Rendering template "example/welcome.html.ep".
+[Thu Feb 13 14:41:56 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 14:41:56 2014] [debug] 200 OK (0.007678s, 130.242/s).
+[Thu Feb 13 15:37:45 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 15:37:45 2014] [debug] GET "/stars".
+[Thu Feb 13 15:37:45 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Feb 13 15:37:45 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Feb 13 15:37:45 2014] [debug] Rendering inline template.
+[Thu Feb 13 15:37:45 2014] [debug] Rendering inline template.
+[Thu Feb 13 15:37:45 2014] [debug] 404 Not Found (0.014083s, 71.008/s).
+[Thu Feb 13 15:38:58 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 15:38:58 2014] [debug] GET "/stars".
+[Thu Feb 13 15:38:58 2014] [debug] Routing to controller "Contacts::Example" and action "stars".
+[Thu Feb 13 15:38:58 2014] [debug] Rendering template "example/stars.html.ep".
+[Thu Feb 13 15:38:58 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 15:38:58 2014] [debug] 200 OK (0.005043s, 198.295/s).
+[Thu Feb 13 15:46:10 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 15:46:10 2014] [debug] GET "/stars".
+[Thu Feb 13 15:46:10 2014] [debug] Routing to controller "Contacts::Example" and action "stars".
+[Thu Feb 13 15:46:10 2014] [debug] Rendering template "example/stars.html.ep".
+[Thu Feb 13 15:46:10 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 15:46:10 2014] [debug] 200 OK (0.005220s, 191.571/s).
+[Thu Feb 13 15:46:16 2014] [debug] GET "/stars/7".
+[Thu Feb 13 15:46:16 2014] [debug] Routing to controller "Contacts::Example" and action "stars".
+[Thu Feb 13 15:46:16 2014] [debug] Rendering template "example/stars.html.ep".
+[Thu Feb 13 15:46:16 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 15:46:16 2014] [debug] 200 OK (0.004177s, 239.406/s).
+[Thu Feb 13 15:46:20 2014] [debug] GET "/stars/17".
+[Thu Feb 13 15:46:20 2014] [debug] Routing to controller "Contacts::Example" and action "stars".
+[Thu Feb 13 15:46:20 2014] [debug] Rendering cached template "example/stars.html.ep".
+[Thu Feb 13 15:46:20 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Feb 13 15:46:20 2014] [debug] 200 OK (0.001839s, 543.774/s).
+[Thu Feb 13 15:57:38 2014] [info] Listening at "http://*:3000".
+[Thu Feb 13 15:57:40 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 15:57:40 2014] [debug] GET "/".
+[Thu Feb 13 15:57:40 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 15:57:40 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 15:57:40 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 15:57:40 2014] [debug] 200 OK (0.005467s, 182.916/s).
+[Thu Feb 13 15:58:03 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 15:58:03 2014] [debug] GET "/".
+[Thu Feb 13 15:58:03 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 15:58:03 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 15:58:03 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 15:58:03 2014] [debug] 200 OK (0.005390s, 185.529/s).
+[Thu Feb 13 15:59:05 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 15:59:05 2014] [debug] GET "/".
+[Thu Feb 13 15:59:05 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 15:59:05 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 15:59:05 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 15:59:05 2014] [debug] 200 OK (0.008131s, 122.986/s).
+[Thu Feb 13 15:59:10 2014] [debug] GET "/view/joe".
+[Thu Feb 13 15:59:10 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 15:59:10 2014] [debug] Template "HASH(0x7f8182803f88).html.ep" not found.
+[Thu Feb 13 15:59:10 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Feb 13 15:59:10 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Feb 13 15:59:10 2014] [debug] Rendering inline template.
+[Thu Feb 13 15:59:10 2014] [debug] Rendering inline template.
+[Thu Feb 13 15:59:10 2014] [debug] 404 Not Found (0.015974s, 62.602/s).
+[Thu Feb 13 15:59:25 2014] [debug] GET "/view/joe".
+[Thu Feb 13 15:59:25 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 15:59:25 2014] [debug] Template "HASH(0x7f8182803f88).html.ep" not found.
+[Thu Feb 13 15:59:25 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Feb 13 15:59:25 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Feb 13 15:59:25 2014] [debug] Rendering cached inline template.
+[Thu Feb 13 15:59:25 2014] [debug] Rendering cached inline template.
+[Thu Feb 13 15:59:25 2014] [debug] 404 Not Found (0.005131s, 194.894/s).
+[Thu Feb 13 15:59:34 2014] [debug] GET "/view/joe".
+[Thu Feb 13 15:59:34 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 15:59:34 2014] [debug] Template "HASH(0x7f8182803f88).html.ep" not found.
+[Thu Feb 13 15:59:34 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Feb 13 15:59:34 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Feb 13 15:59:34 2014] [debug] Rendering cached inline template.
+[Thu Feb 13 15:59:34 2014] [debug] Rendering cached inline template.
+[Thu Feb 13 15:59:34 2014] [debug] 404 Not Found (0.004459s, 224.266/s).
+[Thu Feb 13 16:00:03 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:00:03 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:00:03 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:00:03 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:00:03 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:00:03 2014] [debug] 200 OK (0.004389s, 227.842/s).
+[Thu Feb 13 16:00:57 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:00:57 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:00:57 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:00:57 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:00:57 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:00:57 2014] [debug] 200 OK (0.008104s, 123.396/s).
+[Thu Feb 13 16:01:30 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:01:30 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:01:30 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:01:30 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:01:30 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:01:30 2014] [debug] 200 OK (0.005849s, 170.969/s).
+[Thu Feb 13 16:01:46 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:01:46 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:01:46 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:01:46 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:01:46 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:01:46 2014] [debug] 200 OK (0.005818s, 171.880/s).
+[Thu Feb 13 16:01:54 2014] [debug] GET "/view/bob".
+[Thu Feb 13 16:01:54 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:01:54 2014] [debug] Rendering cached template "people/view.html.ep".
+[Thu Feb 13 16:01:54 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Feb 13 16:01:54 2014] [debug] 200 OK (0.001143s, 874.891/s).
+[Thu Feb 13 16:02:43 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:02:43 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:02:43 2014] [debug] Rendering cached template "people/view.html.ep".
+[Thu Feb 13 16:02:43 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Feb 13 16:02:43 2014] [debug] 200 OK (0.000829s, 1206.273/s).
+[Thu Feb 13 16:06:09 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:06:09 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:06:09 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:06:09 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:06:09 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:06:09 2014] [debug] 200 OK (0.006524s, 153.280/s).
+[Thu Feb 13 16:06:57 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:06:57 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:06:57 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:06:57 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:06:57 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:06:57 2014] [debug] 200 OK (0.008010s, 124.844/s).
+[Thu Feb 13 16:08:55 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:08:55 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:08:55 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:08:55 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:08:55 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:08:55 2014] [debug] 200 OK (0.005400s, 185.185/s).
+[Thu Feb 13 16:08:59 2014] [debug] POST "/delete".
+[Thu Feb 13 16:08:59 2014] [debug] Routing to controller "Contacts::People" and action "delete".
+[Thu Feb 13 16:08:59 2014] [debug] Template "people/delete.html.ep" not found.
+[Thu Feb 13 16:08:59 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Feb 13 16:08:59 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Feb 13 16:08:59 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:08:59 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:08:59 2014] [debug] 404 Not Found (0.014800s, 67.568/s).
+[Thu Feb 13 16:09:20 2014] [debug] GET "/".
+[Thu Feb 13 16:09:20 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:09:20 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 16:09:20 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:09:20 2014] [debug] 200 OK (0.002812s, 355.619/s).
+[Thu Feb 13 16:09:55 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:09:55 2014] [debug] GET "/".
+[Thu Feb 13 16:09:55 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:09:55 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 16:09:55 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:09:55 2014] [debug] 200 OK (0.004846s, 206.356/s).
+[Thu Feb 13 16:09:58 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:09:58 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:09:58 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:09:58 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:09:58 2014] [debug] 200 OK (0.002822s, 354.359/s).
+[Thu Feb 13 16:10:00 2014] [debug] POST "/delete".
+[Thu Feb 13 16:10:00 2014] [debug] Routing to controller "Contacts::People" and action "delete".
+[Thu Feb 13 16:10:00 2014] [debug] Rendering template "people/delete.html.ep".
+[Thu Feb 13 16:10:00 2014] [debug] 200 OK (0.002149s, 465.333/s).
+[Thu Feb 13 16:10:03 2014] [debug] GET "/".
+[Thu Feb 13 16:10:03 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:10:03 2014] [debug] Rendering cached template "people/list.html.ep".
+[Thu Feb 13 16:10:03 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Feb 13 16:10:03 2014] [debug] 200 OK (0.001724s, 580.046/s).
+[Thu Feb 13 16:10:08 2014] [debug] GET "/view/bob".
+[Thu Feb 13 16:10:08 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:10:08 2014] [debug] Rendering cached template "people/view.html.ep".
+[Thu Feb 13 16:10:08 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Feb 13 16:10:08 2014] [debug] 200 OK (0.000920s, 1086.957/s).
+[Thu Feb 13 16:10:09 2014] [debug] POST "/delete".
+[Thu Feb 13 16:10:09 2014] [debug] Routing to controller "Contacts::People" and action "delete".
+[Thu Feb 13 16:10:09 2014] [debug] Rendering cached template "people/delete.html.ep".
+[Thu Feb 13 16:10:09 2014] [debug] 200 OK (0.001159s, 862.813/s).
+[Thu Feb 13 16:10:11 2014] [debug] GET "/".
+[Thu Feb 13 16:10:11 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:10:11 2014] [debug] Rendering cached template "people/list.html.ep".
+[Thu Feb 13 16:10:11 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Feb 13 16:10:11 2014] [debug] 200 OK (0.001493s, 669.792/s).
+[Thu Feb 13 16:10:19 2014] [info] Listening at "http://*:3000".
+[Thu Feb 13 16:10:20 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:10:20 2014] [debug] GET "/".
+[Thu Feb 13 16:10:20 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:10:20 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 16:10:20 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:10:20 2014] [debug] 200 OK (0.006284s, 159.134/s).
+[Thu Feb 13 16:10:44 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:10:44 2014] [debug] GET "/".
+[Thu Feb 13 16:10:44 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:10:44 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 16:10:44 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:10:44 2014] [debug] 200 OK (0.006802s, 147.016/s).
+[Thu Feb 13 16:10:45 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:10:45 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:10:45 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:10:45 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:10:45 2014] [debug] 200 OK (0.003517s, 284.333/s).
+[Thu Feb 13 16:10:46 2014] [debug] POST "/delete".
+[Thu Feb 13 16:10:46 2014] [debug] Routing to controller "Contacts::People" and action "delete".
+[Thu Feb 13 16:10:46 2014] [debug] Template "list.html.ep" not found.
+[Thu Feb 13 16:10:46 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Feb 13 16:10:46 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Feb 13 16:10:46 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:10:46 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:10:46 2014] [debug] 404 Not Found (0.014532s, 68.814/s).
+[Thu Feb 13 16:11:00 2014] [info] Listening at "http://*:3000".
+[Thu Feb 13 16:11:02 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:11:02 2014] [debug] GET "/delete".
+[Thu Feb 13 16:11:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Feb 13 16:11:02 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Feb 13 16:11:02 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:11:02 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:11:02 2014] [debug] 404 Not Found (0.015641s, 63.935/s).
+[Thu Feb 13 16:11:03 2014] [debug] GET "/".
+[Thu Feb 13 16:11:03 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:11:03 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 16:11:03 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:11:03 2014] [debug] 200 OK (0.008956s, 111.657/s).
+[Thu Feb 13 16:11:05 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:11:05 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:11:05 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:11:05 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:11:05 2014] [debug] 200 OK (0.002881s, 347.102/s).
+[Thu Feb 13 16:11:06 2014] [debug] POST "/delete".
+[Thu Feb 13 16:11:06 2014] [debug] Routing to controller "Contacts::People" and action "delete".
+[Thu Feb 13 16:11:06 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 16:11:06 2014] [error] Global symbol "$names" requires explicit package name at template people/list.html.ep line 5.
+1: % layout 'default';
+2: % title 'Welcome';
+3: 
+4: <ul>
+5:   <% foreach my $name (@$names) { %>
+6:   <li><a href="<%= "/view/$name" %>"><%= $name %></a></li>
+7:   <% } %>
+8: </ul>
+
+[Thu Feb 13 16:11:06 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Feb 13 16:11:06 2014] [debug] Template "exception.html.ep" not found.
+[Thu Feb 13 16:11:06 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:11:06 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:11:06 2014] [debug] 500 Internal Server Error (0.025845s, 38.692/s).
+[Thu Feb 13 16:12:00 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:12:00 2014] [debug] GET "/delete".
+[Thu Feb 13 16:12:00 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Feb 13 16:12:00 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Feb 13 16:12:00 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:12:00 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:12:00 2014] [debug] 404 Not Found (0.017938s, 55.748/s).
+[Thu Feb 13 16:12:02 2014] [debug] GET "/".
+[Thu Feb 13 16:12:02 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:12:02 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 16:12:02 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:12:02 2014] [debug] 200 OK (0.005541s, 180.473/s).
+[Thu Feb 13 16:12:03 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:12:03 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:12:03 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:12:03 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:12:03 2014] [debug] 200 OK (0.004111s, 243.250/s).
+[Thu Feb 13 16:12:04 2014] [debug] POST "/delete".
+[Thu Feb 13 16:12:04 2014] [debug] Routing to controller "Contacts::People" and action "delete".
+[Thu Feb 13 16:12:04 2014] [error] Can't locate object method "forward" via package "Mojo::Message::Response" at /Users/ynonperek/tmp/perl/day3/web/contacts/script/../lib/Contacts/People.pm line 42.
+
+[Thu Feb 13 16:12:04 2014] [debug] Template "exception.development.html.ep" not found.
+[Thu Feb 13 16:12:04 2014] [debug] Template "exception.html.ep" not found.
+[Thu Feb 13 16:12:04 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:12:04 2014] [debug] Rendering inline template.
+[Thu Feb 13 16:12:04 2014] [debug] 500 Internal Server Error (0.020929s, 47.781/s).
+[Thu Feb 13 16:12:26 2014] [info] Listening at "http://*:3000".
+[Thu Feb 13 16:12:30 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:12:30 2014] [debug] GET "/".
+[Thu Feb 13 16:12:30 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:12:30 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 16:12:30 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:12:30 2014] [debug] 200 OK (0.007668s, 130.412/s).
+[Thu Feb 13 16:12:31 2014] [debug] GET "/view/joe".
+[Thu Feb 13 16:12:31 2014] [debug] Routing to controller "Contacts::People" and action "view".
+[Thu Feb 13 16:12:31 2014] [debug] Rendering template "people/view.html.ep".
+[Thu Feb 13 16:12:31 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:12:31 2014] [debug] 200 OK (0.005376s, 186.012/s).
+[Thu Feb 13 16:12:32 2014] [debug] POST "/delete".
+[Thu Feb 13 16:12:32 2014] [debug] Routing to controller "Contacts::People" and action "delete".
+[Thu Feb 13 16:12:32 2014] [debug] 302 Found (0.000964s, 1037.344/s).
+[Thu Feb 13 16:12:33 2014] [debug] GET "/".
+[Thu Feb 13 16:12:33 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:12:33 2014] [debug] Rendering cached template "people/list.html.ep".
+[Thu Feb 13 16:12:33 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Feb 13 16:12:33 2014] [debug] 200 OK (0.000773s, 1293.661/s).
+[Thu Feb 13 16:13:59 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Feb 13 16:13:59 2014] [debug] GET "/".
+[Thu Feb 13 16:13:59 2014] [debug] Routing to controller "Contacts::People" and action "list".
+[Thu Feb 13 16:13:59 2014] [debug] Rendering template "people/list.html.ep".
+[Thu Feb 13 16:13:59 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Feb 13 16:13:59 2014] [debug] 200 OK (0.006537s, 152.975/s).

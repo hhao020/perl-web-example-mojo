@@ -1,0 +1,22 @@
+% layout 'default';
+% title 'Welcome';
+
+<h1>Contact Page: <%= $name %></h1>
+
+<p>
+<strong>Email: </strong> <%= $details->{email} %>
+</p>
+<p>
+<strong>Phone: </strong> <%= $details->{phone} %>
+</p>
+<p>
+<strong>Country: </strong> <%= $details->{country} %>
+</p>
+
+<form method="POST" action="/delete">
+  <input type="hidden" name="name" value="<%= $name %>" />
+  <!-- <input type="text" name="search" /> -->
+  <input type="submit" value="Delete!" />
+</form>
+
+

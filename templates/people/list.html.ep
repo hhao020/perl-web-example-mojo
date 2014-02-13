@@ -1,0 +1,10 @@
+% layout 'default';
+% title 'Welcome';
+
+<button>Run Validation Tool</button>
+
+<ul>
+  <% foreach my $name (@$names) { %>
+  <li><a href="<%= "/view/$name" %>"><%= $name %></a></li>
+  <% } %>
+</ul>
